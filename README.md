@@ -1,4 +1,7 @@
 # DEEP LEARNING FOR RETINAL DISEASE CLASSIFICATION
+**Submitted by: Etana Disasa**
+
+
 
 This project develops convolutional neural network (CNN) models to identify retinal diseases from fundus images. Leveraging publicly available datasets, the goal is to create an AI-assisted tool that can aid in early detection and improve clinical decision-making.
 
